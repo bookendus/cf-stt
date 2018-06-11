@@ -1,0 +1,7 @@
+---
+applications:
+- name: cf-stt
+  memory: 1G
+  disk_quota: 1G
+  instances: 1
+  buildpack: python_buildpack

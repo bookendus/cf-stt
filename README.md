@@ -1,2 +1,2 @@
 # cf-stt
-# make stt
+make stt
